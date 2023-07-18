@@ -1,0 +1,5 @@
+class UserRoutes {
+
+}
+
+export {UserRoutes}
